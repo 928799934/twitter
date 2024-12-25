@@ -56,13 +56,13 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/creachadair/twitter"
-	"github.com/creachadair/twitter/internal/otest"
-	"github.com/creachadair/twitter/jape"
-	"github.com/creachadair/twitter/jape/auth"
-	"github.com/creachadair/twitter/tokens"
-	"github.com/creachadair/twitter/tweets"
-	"github.com/creachadair/twitter/types"
+	"github.com/928799934/twitter"
+	"github.com/928799934/twitter/internal/otest"
+	"github.com/928799934/twitter/jape"
+	"github.com/928799934/twitter/jape/auth"
+	"github.com/928799934/twitter/tokens"
+	"github.com/928799934/twitter/tweets"
+	"github.com/928799934/twitter/types"
 )
 
 func debugClient(t *testing.T) *twitter.Client {

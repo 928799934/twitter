@@ -8,8 +8,8 @@ import (
 	"os"
 	"testing"
 
-	"github.com/creachadair/twitter"
-	"github.com/creachadair/twitter/jape"
+	"github.com/928799934/twitter"
+	"github.com/928799934/twitter/jape"
 )
 
 var (

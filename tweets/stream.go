@@ -6,9 +6,9 @@ import (
 	"context"
 	"encoding/json"
 
-	"github.com/creachadair/twitter"
-	"github.com/creachadair/twitter/jape"
-	"github.com/creachadair/twitter/types"
+	"github.com/928799934/twitter"
+	"github.com/928799934/twitter/jape"
+	"github.com/928799934/twitter/types"
 )
 
 // SampleStream constructs a streaming sample query that delivers results to f.

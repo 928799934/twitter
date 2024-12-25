@@ -6,9 +6,9 @@ import (
 	"context"
 	"testing"
 
-	"github.com/creachadair/twitter/internal/otest"
-	"github.com/creachadair/twitter/jape"
-	"github.com/creachadair/twitter/olists"
+	"github.com/928799934/twitter/internal/otest"
+	"github.com/928799934/twitter/jape"
+	"github.com/928799934/twitter/olists"
 )
 
 func TestUserCall(t *testing.T) {

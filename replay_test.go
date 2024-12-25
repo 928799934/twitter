@@ -16,14 +16,14 @@ import (
 	"github.com/dnaeon/go-vcr/v2/cassette"
 	"github.com/dnaeon/go-vcr/v2/recorder"
 
-	"github.com/creachadair/twitter"
-	"github.com/creachadair/twitter/jape"
-	"github.com/creachadair/twitter/lists"
-	"github.com/creachadair/twitter/query"
-	"github.com/creachadair/twitter/rules"
-	"github.com/creachadair/twitter/tweets"
-	"github.com/creachadair/twitter/types"
-	"github.com/creachadair/twitter/users"
+	"github.com/928799934/twitter"
+	"github.com/928799934/twitter/jape"
+	"github.com/928799934/twitter/lists"
+	"github.com/928799934/twitter/query"
+	"github.com/928799934/twitter/rules"
+	"github.com/928799934/twitter/tweets"
+	"github.com/928799934/twitter/types"
+	"github.com/928799934/twitter/users"
 )
 
 var (

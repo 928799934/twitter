@@ -8,8 +8,8 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/creachadair/twitter/jape"
-	"github.com/creachadair/twitter/types"
+	"github.com/928799934/twitter/jape"
+	"github.com/928799934/twitter/types"
 )
 
 // A Reply is a wrapper for the reply object returned by successful calls to

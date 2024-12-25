@@ -6,11 +6,11 @@ import (
 	"context"
 	"testing"
 
-	"github.com/creachadair/twitter"
-	"github.com/creachadair/twitter/jape"
-	"github.com/creachadair/twitter/rules"
-	"github.com/creachadair/twitter/tweets"
-	"github.com/creachadair/twitter/types"
+	"github.com/928799934/twitter"
+	"github.com/928799934/twitter/jape"
+	"github.com/928799934/twitter/rules"
+	"github.com/928799934/twitter/tweets"
+	"github.com/928799934/twitter/types"
 )
 
 func TestStream(t *testing.T) {

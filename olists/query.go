@@ -8,10 +8,10 @@ import (
 	"context"
 	"strconv"
 
-	"github.com/creachadair/twitter"
-	"github.com/creachadair/twitter/internal/ocall"
-	"github.com/creachadair/twitter/jape"
-	"github.com/creachadair/twitter/types"
+	"github.com/928799934/twitter"
+	"github.com/928799934/twitter/internal/ocall"
+	"github.com/928799934/twitter/jape"
+	"github.com/928799934/twitter/types"
 )
 
 // Members constructs a query for the members of a list.

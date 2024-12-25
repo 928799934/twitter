@@ -28,9 +28,9 @@ import (
 	"encoding/json"
 	"strconv"
 
-	"github.com/creachadair/twitter"
-	"github.com/creachadair/twitter/jape"
-	"github.com/creachadair/twitter/types"
+	"github.com/928799934/twitter"
+	"github.com/928799934/twitter/jape"
+	"github.com/928799934/twitter/types"
 )
 
 // Lookup constructs a lookup query for one or more users by ID.  To look up

@@ -6,8 +6,8 @@ import (
 	"encoding/json"
 	"time"
 
-	"github.com/creachadair/twitter/jape"
-	"github.com/creachadair/twitter/types"
+	"github.com/928799934/twitter/jape"
+	"github.com/928799934/twitter/types"
 )
 
 // Create constructs a query to create a new tweet from the given settings.

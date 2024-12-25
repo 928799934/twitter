@@ -8,8 +8,8 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/creachadair/twitter"
-	"github.com/creachadair/twitter/jape"
+	"github.com/928799934/twitter"
+	"github.com/928799934/twitter/jape"
 )
 
 // DeleteTweet constructs a query to delete the given tweet ID.

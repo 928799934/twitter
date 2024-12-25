@@ -7,7 +7,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/creachadair/twitter/types"
+	"github.com/928799934/twitter/types"
 )
 
 // DateFormat is the timestamp format used by the Twitter v1.1 API.

@@ -23,7 +23,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/creachadair/twitter/jape"
+	"github.com/928799934/twitter/jape"
 )
 
 /*

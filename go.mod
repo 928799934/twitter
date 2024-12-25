@@ -1,4 +1,4 @@
-module github.com/creachadair/twitter
+module github.com/928799934/twitter
 
 go 1.20
 

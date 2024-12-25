@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/creachadair/twitter/query"
+	"github.com/928799934/twitter/query"
 )
 
 func Example() {

@@ -7,8 +7,8 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/creachadair/twitter"
-	"github.com/creachadair/twitter/jape"
+	"github.com/928799934/twitter"
+	"github.com/928799934/twitter/jape"
 )
 
 // An Edit is a query to edit or delete a list or list membership.

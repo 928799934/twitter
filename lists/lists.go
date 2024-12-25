@@ -8,11 +8,11 @@ import (
 	"encoding/json"
 	"strconv"
 
-	"github.com/creachadair/twitter"
-	"github.com/creachadair/twitter/jape"
-	"github.com/creachadair/twitter/tweets"
-	"github.com/creachadair/twitter/types"
-	"github.com/creachadair/twitter/users"
+	"github.com/928799934/twitter"
+	"github.com/928799934/twitter/jape"
+	"github.com/928799934/twitter/tweets"
+	"github.com/928799934/twitter/types"
+	"github.com/928799934/twitter/users"
 )
 
 // Lookup constructs a query for the metadata of a list by ID.  A successful

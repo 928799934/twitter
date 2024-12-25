@@ -5,7 +5,7 @@ package auth_test
 import (
 	"testing"
 
-	"github.com/creachadair/twitter/jape/auth"
+	"github.com/928799934/twitter/jape/auth"
 )
 
 // Test vectors from http://lti.tools/oauth/ to verify the basic computations.

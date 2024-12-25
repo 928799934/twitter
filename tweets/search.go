@@ -6,8 +6,8 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/creachadair/twitter/jape"
-	"github.com/creachadair/twitter/types"
+	"github.com/928799934/twitter/jape"
+	"github.com/928799934/twitter/types"
 )
 
 // SearchRecent conducts a search query on recent tweets matching the specified

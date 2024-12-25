@@ -49,8 +49,8 @@ import (
 	"encoding/json"
 	"time"
 
-	"github.com/creachadair/twitter"
-	"github.com/creachadair/twitter/jape"
+	"github.com/928799934/twitter"
+	"github.com/928799934/twitter/jape"
 )
 
 // Get constructs a query to fetch the specified streaming search rule IDs.  If

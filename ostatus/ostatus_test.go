@@ -10,12 +10,12 @@ import (
 	"testing"
 	"time"
 
-	"github.com/creachadair/twitter"
-	"github.com/creachadair/twitter/internal/otest"
-	"github.com/creachadair/twitter/jape"
-	"github.com/creachadair/twitter/jape/auth"
-	"github.com/creachadair/twitter/ostatus"
-	"github.com/creachadair/twitter/types"
+	"github.com/928799934/twitter"
+	"github.com/928799934/twitter/internal/otest"
+	"github.com/928799934/twitter/jape"
+	"github.com/928799934/twitter/jape/auth"
+	"github.com/928799934/twitter/ostatus"
+	"github.com/928799934/twitter/types"
 )
 
 var (
