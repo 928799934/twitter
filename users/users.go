@@ -26,12 +26,17 @@ package users
 import (
 	"context"
 	"encoding/json"
+	"fmt"
 	"strconv"
 
 	"github.com/928799934/twitter"
 	"github.com/928799934/twitter/jape"
 	"github.com/928799934/twitter/types"
 )
+
+func Me(opts *LookupOpts) Query {
+	return newLookup("2/users/me", "user.fields", "name", opts)
+}
 
 // Lookup constructs a lookup query for one or more users by ID.  To look up
 // multiple IDs, add subsequent values to the opts.More field.
@@ -147,6 +152,9 @@ func (q Query) Invoke(ctx context.Context, cli *twitter.Client) (*Reply, error) 
 	if err != nil {
 		return nil, err
 	}
+
+	fmt.Println(string(rsp.Data))
+
 	var users types.Users
 	if len(rsp.Data) == 0 {
 		// no results
